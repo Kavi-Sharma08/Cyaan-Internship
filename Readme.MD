@@ -1,30 +1,53 @@
-Hii everyone welcome to Mini LinkedIn
+Mini LinkedIn
+Welcome to the Mini LinkedIn project!
 
-GITHUB REPO LINK : - https://github.com/Kavi-Sharma08/Cyaan-Internship
+Demo Links
+GitHub Repository: https://github.com/Kavi-Sharma08/Cyaan-Internship
 
-LIVE DEMO URL - https://shiny-churros-006b91.netlify.app/
+Live Demo: https://shiny-churros-006b91.netlify.app/
 
-How to demo the project
+How to Demo the Project
+-------------------------
 
-I have given the hardcoded email and password in the form of the project
-GO to Log in in the bottom of the form 
-And sign in u are logged in and see the post post publicly
-And you can create the post by clicking on the + sign at the bottom righht page
+1) Use the hardcoded email and password provided in the project to log in.
 
-IF you want to signup 
+2) On the login screen, go to the bottom of the form and click Log In.
 
-There is 2 step to signup
-FIrst to create the account
-Then naviagte to complete the profie
+3) After signing in, you can see posts publicly created by all users.
 
-Tech Stack used : -
-MONGODB
-REACT
-NODEJS
-EXPRESSJS
-TAILWINDCSS
+4) To create a new post, click the + button located at the bottom right of the page.
 
+Signup Process
+--------------
+Signup requires two steps:
 
-Features:-
-Authenticate the user 
+1) Create an account by signing up.
+
+2) Complete your profile on the next page.
+
+Only after completing your profile can you start creating posts.
+
+Features
+1) User Authentication: Users must log in with email and password to access the app.
+
+2) Profile Completion: Users must complete their profile before being redirected to the public posts page.
+
+3) Create Posts: Authenticated users can create posts.
+
+4) User Posts: On the create post page, users can view their profile info and see all posts they have created.
+
+5) View All Posts: Logged-in users can view posts made by all users.
+
+Tech Stack
+------------
+MongoDB
+
+React
+
+Node.js
+
+Express.js
+
+Tailwind CSS
+
 
